@@ -1,0 +1,34 @@
+body {
+  background-color:lightblue;
+  font-size: 130%;
+}
+h1,h2{
+    text-align: center;
+    }
+ h1{
+  color: khaki;
+  font-family: cursive;
+  font-size: 36 px;
+  }
+ h2{
+  color: black;
+  font-family:fantasy;
+  text-align: justify;
+  font-size: 32 px;
+  }
+h3{
+    color: red;
+  font-family:inherit;
+  font-size: 28 px
+}
+figure img {
+ width: 80%; 
+}
+.center {display:block; margin:0 auto;}
+
+h3,ul{
+color: red;
+}
+a{
+    text-decoration: none;
+}
